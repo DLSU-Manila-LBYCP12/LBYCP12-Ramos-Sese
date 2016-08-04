@@ -1,6 +1,6 @@
 # LBYCP12-Project---Ramos-Sese
 
-#Strength in Shopping (SiS)
+#Online Shopping Barcode System
 
 ##Features:
 - detects barcode then displays the corresponding item with respect to the barcode
