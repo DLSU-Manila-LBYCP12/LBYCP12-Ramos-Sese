@@ -52,6 +52,10 @@ If you create account you will be directed in this page, then it will be saved i
 
 ![webpage](https://cloud.githubusercontent.com/assets/16619094/17765586/63d612ee-6559-11e6-8fa9-7a76211894b2.JPG)
 
+Here we added accounts directly to the database to show the dynamic list implementation.
+
+![addedusers](https://cloud.githubusercontent.com/assets/16619094/17768349/2e7c4c82-6566-11e6-8054-2d5f5c25a46e.JPG)
+
 Since I already created an account I will login and it will show the login successful box.
 
 ![log-in](https://cloud.githubusercontent.com/assets/16619094/17765675/e81cde7a-6559-11e6-991e-308757aeba2b.JPG)
@@ -59,3 +63,8 @@ Since I already created an account I will login and it will show the login succe
 You will be redirected in the main interface where shopping happens. :grin:
 
 ![main menu](https://cloud.githubusercontent.com/assets/16619094/17765490/baacdd9c-6558-11e6-9af3-1763f7e68d57.JPG)
+
+Here are the errors if the user didn't input the required fields. This is a great information shown so that the users are always informed.
+
+![error](https://cloud.githubusercontent.com/assets/16619094/17768340/248ae01c-6566-11e6-8535-650aa0e7ad16.JPG)
+![gender error](https://cloud.githubusercontent.com/assets/16619094/17768346/2a098868-6566-11e6-8455-481ddf8d2633.JPG)
