@@ -29,6 +29,7 @@ STRENGTH IN NUMBERS!
 
 #Progress Report:
 We used NetBeans IDE 8.0.2
+![](C:\Users\patrick\Downloads\NetBeans.JPG)
 
 Libraries imported: MySQL JDBC Driver (this is used for the calling the database system features of XAMPP)
 
