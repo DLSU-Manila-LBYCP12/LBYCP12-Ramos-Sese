@@ -28,7 +28,7 @@ STRENGTH IN NUMBERS!
 
 
 #Progress Report:
-We used NetBeans IDE 8.0.2
+We used NetBeans IDE 8.0.2  :simple_smile:
 
 ![netbeans](https://cloud.githubusercontent.com/assets/16619094/17765466/a1d00a74-6558-11e6-8eb7-21212f90a669.JPG)
 
@@ -56,6 +56,6 @@ Since I already created an account I will login and it will show the login succe
 
 ![log-in](https://cloud.githubusercontent.com/assets/16619094/17765675/e81cde7a-6559-11e6-991e-308757aeba2b.JPG)
 
-You will be redirected in the main interface where shopping happens.
+You will be redirected in the main interface where shopping happens. :grin:
 
 ![main menu](https://cloud.githubusercontent.com/assets/16619094/17765490/baacdd9c-6558-11e6-9af3-1763f7e68d57.JPG)
