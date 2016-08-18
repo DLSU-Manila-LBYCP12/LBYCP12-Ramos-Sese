@@ -28,7 +28,7 @@ STRENGTH IN NUMBERS!
 
 
 #Progress Report:
-We used NetBeans IDE 8.0.2  :smile:
+We used NetBeans IDE 8.0.2  :relaxed: :relaxed: :relaxed:
 
 ![netbeans](https://cloud.githubusercontent.com/assets/16619094/17765466/a1d00a74-6558-11e6-8eb7-21212f90a669.JPG)
 
