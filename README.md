@@ -55,3 +55,7 @@ If you create account you will be directed in this page, then it will be saved i
 Since I already created an account I will login and it will show the login successful box.
 
 ![log-in](https://cloud.githubusercontent.com/assets/16619094/17765675/e81cde7a-6559-11e6-991e-308757aeba2b.JPG)
+
+You will be redirected in the main interface where shopping happens.
+
+![main menu](https://cloud.githubusercontent.com/assets/16619094/17765490/baacdd9c-6558-11e6-9af3-1763f7e68d57.JPG)
